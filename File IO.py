@@ -47,19 +47,3 @@ except FileNotFoundError as Filenotfounderror:
 except IOError as ioerror: #when machine has some problem with read or write file 
     print("IO error")
     raise ioerror
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
