@@ -4,7 +4,7 @@ def factorial(n):
         return 1
     # Recursive case: calculate factorial by multiplying n with factorial of (n-1)
     else:
-        return n*factorial(n - 1)
+        return n * factorial(n - 1)
 
 # Example usage:
 result = factorial(5)
