@@ -24,4 +24,3 @@ print(st2) #result = <shopping.module1.Student object at 0x00000216A62A7690> in 
 
 
 
-
